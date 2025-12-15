@@ -40,10 +40,3 @@ This project is a Time Series forecasting model using Long Short-Term Memory (LS
    python run.py
    ```
 
-## Deployment Guide (Streamlit Cloud)
-1. Push this code to a GitHub repository.
-2. Go to [share.streamlit.io](https://share.streamlit.io/).
-3. Connect your GitHub account.
-4. Select this repository and the `app.py` file.
-5. Click **Deploy**!
-
