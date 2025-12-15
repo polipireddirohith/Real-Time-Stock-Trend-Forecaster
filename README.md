@@ -1,9 +1,5 @@
 # Real-Time Stock Trend Forecaster (LSTM)
 
-## 🚀 Live Demo
-**[Deploy to Streamlit Cloud](https://streamlit.io/cloud)**  
-*Note: GitHub Pages only hosts static websites (HTML/CSS). Since this is a Python application requiring a server to run TensorFlow/Pandas, you must deploy it to a platform like Streamlit Cloud, Render, or Railway.*
-
 ## Overview
 This project is a Time Series forecasting model using Long Short-Term Memory (LSTM) neural networks to predict stock market trends. It integrates real-time data pipelines from Yahoo Finance and utilizes technical indicators like RSI and MACD for enhanced predictive accuracy.
 
